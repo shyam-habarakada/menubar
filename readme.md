@@ -24,9 +24,9 @@ This module was written for + is used by [Monu](https://github.com/maxogden/monu
 
 ## installation
 
-```
-npm install menubar --save
-```
+1. Clone this repo
+2. Switch to the menubar directory
+3. Run `npm install --save`
 
 ## usage
 
